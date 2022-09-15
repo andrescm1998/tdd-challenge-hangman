@@ -1,0 +1,20 @@
+{
+  "name": "tdd-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --silent --verbose",
+    "coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3",
+    "jest-each": "^29.0.3"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "random-words": "^1.2.0"
+  }
+}
